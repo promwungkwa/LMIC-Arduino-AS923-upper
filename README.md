@@ -1,6 +1,6 @@
-Promwungkwa: Added AS923 upper (923.2-924.6MHz) into LMIC-arduino code.
+Promwungkwa: Added AS923-upper (923.2-924.6MHz) into LMIC-arduino code, preparing for Thai LoraWan.
 
-Zaki : Added AS923 into LMIC source code to comply with Malaysia MCMC regulation.
+Zaki/arduino-lmic-as923: Added AS923 into LMIC source code to comply with Malaysia MCMC regulation.
 
 Arduino-LMIC library
 ====================
