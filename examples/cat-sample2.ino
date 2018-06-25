@@ -43,7 +43,7 @@ float  lat = 18.796512;
 float  lon = 98.953319;
 
 // LoRaWAN end-device address (DevAddr)
-static const u4_t DEVADDR = 0x12EF0259;
+static const u4_t DEVADDR = 0x12EF02XX;
 
 // LoRaWAN NwkSKey, network session key
 static const PROGMEM u1_t NWKSKEY[16] = { 0x28, 0xAE, 0xD2, 0x2B, 0x7E, 0x15, 0x16, 0xA6, 0x09, 0xCF, 0xAB, 0xF7, 0x15, 0x88, 0x4F, 0x3C };
